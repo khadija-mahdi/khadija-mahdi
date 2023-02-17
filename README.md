@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![kmahdi's 42 stats](https://badge.mediaplus.ma/darkblue/kmahdi)](https://github.com/oakoudad/badge42)
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=kmahdi)](https://github.com/mohouyizme/1337-readme)
 <!--
 **khadija-mahdi/khadija-mahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
