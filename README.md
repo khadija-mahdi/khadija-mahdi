@@ -29,9 +29,8 @@
 
 ## 📈 My Github status
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khadija-mahdi&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="KhadijaMahdi's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-mahdi&layout=compact&hide_border=true" /></a> |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadija-mahdi&theme=dark&show_icons=true) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-mahdi&layout=compact&hide_border=true" /></a> 
 | ------------- | ------------- |
-
 ---
 
 ## 💻 Contributions
