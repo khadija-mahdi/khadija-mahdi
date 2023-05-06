@@ -11,7 +11,7 @@
 
 ## 👨‍💻 My 42 stats
 
-[![kmahdi's 42 stats](https://badge.mediaplus.ma/darkblue/kmahdi)](https://github.com/oakoudad/badge42)
+[![kmahdi's 42 stats](https://badge.mediaplus.ma/black/kmahdi)](https://github.com/oakoudad/badge42)
 
 ---
 
