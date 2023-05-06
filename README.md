@@ -15,6 +15,22 @@
 [![kmahdi's 42 stats](https://badge.mediaplus.ma/black/kmahdi)](https://github.com/oakoudad/badge42)
 
 ---
+#### My Favorite IDEs/Editors:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+#### Operating Systems I worked with:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
 
 ## ✉️ Let's connect! :
 
@@ -29,8 +45,9 @@
 
 ## 📈 My Github status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadija-mahdi&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-mahdi&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-| ------------- | ------------- |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadija-mahdi&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-mahdi&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=khadija-mahdi&theme=radical" /> |
+| ------------- | ------------- | ------------- |
+
 ---
 
 ## 💻 Contributions
