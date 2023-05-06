@@ -1,6 +1,6 @@
 # Hi there, I'm Khadija Mahdi 👋🏻
 
-## I'm a Computer Science Student at 1337 School !!
+### I'm a Computer Science Student at 1337 School !! , I'm passionate about building elegant solutions to complex problems , and I love learning new things.
 
 - 🧸 Breathing since 2003
 - 🖥 Studying Computer Science at 1337 Coding School
@@ -15,7 +15,7 @@
 
 ---
 
-## ✉️ Connect with me:
+## ✉️ Let's connect! :
 
 <p>
   <a href="https://twitter.com/khadijamahdi13" target="blank"><img  src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Khadija-Mahdi-Twitter" align="center" height="45" width="45" /></a>
