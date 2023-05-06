@@ -35,6 +35,7 @@
 ## ✉️ Let's connect! :
 
 <p>
+  <a href="https://www.linkedin.com/in/khadija-mahdi" target="blank"><img  src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="Khadija-Mahdi-LinkedIn" align="center" height="45" width="45" /></a>
   <a href="https://twitter.com/khadijamahdi13" target="blank"><img  src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Khadija-Mahdi-Twitter" align="center" height="45" width="45" /></a>
   <a href="mailto:khadijamahdi6@gmail.com" target="blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Khadija-Mahdi-Gmail" align="center" height="45" width="45"/></a>
   <a href="https://instagram.com/khadija_mahdii" target="blank"><img  src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Khadija-Mahdi-Instagram" align="center" height="45" width="45" /></a>
