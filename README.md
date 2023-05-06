@@ -29,7 +29,7 @@
 
 ## 📈 My Github status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadija-mahdi&theme=dark&show_icons=true) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-mahdi&layout=compact&hide_border=true" /></a> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadija-mahdi&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-mahdi&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
 ---
 
