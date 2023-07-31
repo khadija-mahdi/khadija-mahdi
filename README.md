@@ -12,7 +12,14 @@
 
 ## 👨‍💻 My 42 stats
 
-[![kmahdi's 42 stats](https://badge.mediaplus.ma/black/kmahdi)](https://github.com/oakoudad/badge42)
+</div>
+<br/>
+<br/>
+<div align="center">
+<a href="https://profile.intra.42.fr/users/kmahdi"><img src="https://badge.mediaplus.ma/greenbinary/kmahdi" alt="kmahdi's 42 stats" /></a>
+</div>
+<br/>
+<br/>
 
 ---
 #### My Favorite IDEs/Editors:
