@@ -34,23 +34,48 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
-#### Operating Systems I worked with:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+#### Frameworks & Tools:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+### 🌐 Operating Systems I worked with
 
-## ✉️ Let's connect! :
+#### 🟢 Unix & Unix-like
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
+**Linux distributions:**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Parrot](https://img.shields.io/badge/Parrot%20OS-15AABF?style=for-the-badge&logo=parrotsecurity&logoColor=white)
+
+#### 🔵 Non-Unix
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+---
+## 🚀 Projects
+
+- [**Ft Transcendence**](https://github.com/ayoub-aitouna/Transcendent) – 3D online Ping-Pong game platform (**Next.js, Django, WebSocket, PostgreSQL, Docker**)
+- [**Webserv**](https://github.com/khadija-mahdi/Webserv) – High-performance HTTP server in **C++**
+- [**Inception**](https://github.com/khadija-mahdi/Inception) – Advanced Docker setup (**NGINX, WordPress, MariaDB**)
+- [**Minishell**](https://github.com/khadija-mahdi/Minishell) – A mini-shell in **C** simulating essential bash features
+- [**RainFall**](https://github.com/khadija-mahdi/Rainfall) – Reverse engineering & binary-exploitation project: writeups, annotated exploits and step-by-step binary explanations.
+- [**Snow Crash**](https://github.com/khadija-mahdi/Snow-Crash) – General cybersecurity project: networking attacks, forensics and defense exercises.
+- [**Darkly**](https://github.com/khadija-mahdi/Darkly) – Web security project: pentesting practice with XSS, SQLi, CSRF, auth flaws.
+
+## 👉 You can find more of my projects on my [GitHub Repositories](https://github.com/khadija-mahdi?tab=repositories).
+---
+###  ✉️ Let's connect! :
 
 <p>
   <a href="https://www.linkedin.com/in/khadija-mahdi" target="blank"><img  src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="Khadija-Mahdi-LinkedIn" align="center" height="45" width="45" /></a>
-  <a href="https://twitter.com/khadijamahdi13" target="blank"><img  src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Khadija-Mahdi-Twitter" align="center" height="45" width="45" /></a>
   <a href="mailto:khadijamahdi6@gmail.com" target="blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Khadija-Mahdi-Gmail" align="center" height="45" width="45"/></a>
 </p>
 
