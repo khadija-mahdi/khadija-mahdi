@@ -1,12 +1,11 @@
 # Hi there, I'm Khadija Mahdi 👋🏻
 
-    - 🖥 I'm a Computer Science Student at 1337 School !!
-    
-    - 🎯 I'm passionate about building elegant solutions to complex problems, and I love learning new things.
-    
-    - 🧸 Breathing since 2003
-    
-    - 👨‍💻 You can access all my open-source projects here on GitHub
+    - 🖥️ I'm a Computer Science student at 1337 School, passionate about technology and innovation.  
+    - 🎯 I love building elegant, efficient solutions to complex problems — and I'm always eager to learn something new.  
+    - 🔐 Currently exploring the world of **Cybersecurity** — securing systems, one vulnerability at a time.  
+    - 👶 Breathing since 2003, and coding for a good chunk of that time.  
+    - 👨‍💻 Check out my open-source projects right here on GitHub!
+
 
 ---
 
@@ -85,6 +84,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadija-mahdi&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-mahdi&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=khadija-mahdi&theme=radical" /> |
 | ------------- | ------------- | ------------- |
+
 
 ---
 
