@@ -27,16 +27,6 @@ const khadija = {
     education: "1337 School (42 Network)",
     age: 23,
     languages: ["Arabic", "English"],
-    
-    code: ["C", "C++", "Python", "JavaScript", "TypeScript", "C#", "Assembly"],
-    
-    specialties: {
-        systems: ["Kernel Development", "Memory Management", "Process Scheduling"],
-        security: ["Binary Exploitation", "Web Pentesting", "Reverse Engineering"],
-        backend: ["Django", "Next.js", "PostgreSQL", "Redis", "WebSocket"],
-        devops: ["Docker", "NGINX"]
-    },
-    
     currentFocus: "Building an OS kernel from scratch 🖥️",
     askMeAbout: ["Low-level programming", "CTF", "Systems design", "Web security"],
     funFact: "I've written more C than most people have written Python 😅"
@@ -579,7 +569,7 @@ Intensive bootcamps that forged a developer.
 
 <div align="center">
 
-#### 🗂️ [Explore All 40+ Repositories →](https://github.com/khadija-mahdi?tab=repositories)
+#### 🗂️ [Explore All 30+ Repositories →](https://github.com/khadija-mahdi?tab=repositories)
 
 </div>
 
@@ -730,49 +720,6 @@ Delivered **3 production-grade web applications**:
 
 <div align="center">
 
-## 🎯 Current Focus
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🖥️ Building
-**OS Kernel from Scratch**
-
-Writing a Unix-like kernel with process management, memory allocation, and file systems.
-
-*15,000+ lines of C & Assembly*
-
-</td>
-<td align="center" width="33%">
-
-### 🔐 Learning  
-**Advanced Exploitation**
-
-Diving deep into modern exploitation techniques, heap exploitation, and kernel exploits.
-
-*CTFs every weekend*
-
-</td>
-<td align="center" width="33%">
-
-### ☁️ Exploring
-**Cloud Architecture**
-
-Kubernetes, microservices, distributed systems, and scalable infrastructure.
-
-*Deploying to the cloud*
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 ## 💬 Let's Connect!
 
 **Open to collaborations, job opportunities, and interesting conversations**
@@ -831,7 +778,7 @@ interests:
 <tr>
 <td align="center">
 
-### 📚 40+ Projects
+### 📚 30+ Projects
 From kernels to web apps
 
 </td>
