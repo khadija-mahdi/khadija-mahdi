@@ -39,7 +39,7 @@ const khadija = {
     
     currentFocus: "Building an OS kernel from scratch 🖥️",
     askMeAbout: ["Low-level programming", "CTF", "Systems design", "Web security"],
-    funFact: "I've written more assembly than most people have written Python 😅"
+    funFact: "I've written more C than most people have written Python 😅"
 };
 ```
 
